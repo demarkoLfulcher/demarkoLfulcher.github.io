@@ -89,7 +89,7 @@ content:
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
 
       - layout: top-middle
-        title: Apartment Rent Rent Price Prediction on Synthetic Data
+        title: Credit Card Fraud Detection on Unbalance and Unlabelled Data
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
