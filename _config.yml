@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Meteorological Modeling in the Baltimore/ Washington Region
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -73,7 +73,7 @@ content:
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
           
       - layout: top-middle
-        title: Super awesome project
+        title: Apartment Rent Rent Price Prediction on Synthetic Data
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
