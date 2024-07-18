@@ -104,9 +104,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
 
-- title: Experience
-  layout: list # Type of content section (list/text)
-  content:
+  - title: Experience
+    layout: list # Type of content section (list/text)
+    content:
       - layout: left
         title: AI4ALL 
         link: https://ai4allchangemakers.org/home
