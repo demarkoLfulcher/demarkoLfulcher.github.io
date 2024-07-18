@@ -132,7 +132,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
+        title: University of Maryland Baltimore County
         caption: 2020 - 2025
         sub_title: B.A. Matematics 
         quote: >
