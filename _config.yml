@@ -86,7 +86,11 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
+            - Rock climbing
+            - Gaming
+            - Knitting
+            - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
 
       - layout: top-middle
         title: Credit Card Fraud Detection on Unbalance and Unlabelled Data
