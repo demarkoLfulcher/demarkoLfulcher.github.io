@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Meteorological Modeling in the Baltimore/ Washington Region
-        link: github.com/sproogen
+        link: github.com/demarkoLfulcher
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -76,7 +76,7 @@ content:
             - Create a PowerPoint and paper documenting the findings          
       - layout: top-middle
         title: Apartment Rent Rent Price Prediction on Synthetic Data
-        link: github.com/sproogen
+        link: github.com/demarkoLfulcher
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -97,7 +97,7 @@ content:
 
       - layout: top-middle
         title: Credit Card Fraud Detection on Unbalance and Unlabelled Data
-        link: github.com/sproogen
+        link: github.com/demarkoLfulcher
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
