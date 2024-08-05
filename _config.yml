@@ -86,10 +86,11 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-            - Rock climbing
-            - Gaming
-            - Knitting
-            - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+            - Conducted comprehensive analysis of rent prices for various housing types in a college town, utilizing statistical methods to evaluate data accuracy and pricing.
+            - Prepared dataset by transforming categorical variables into binary format and handling missing values, ensuring data integrity for analysis.
+            - Applied Multiple Linear Regression and Backwards Elimination techniques to model rent prices, accounting for variables like bathroom count, square feet, and building type.
+            - Developed and tested eight distinct models based on city and building type, optimizing each model by removing variables with high p-values to enhance efficiency.
+            - Provided accurate price ranges for new apartments and noted the impact of data sample size on model accuracy, highlighting improved precision for more frequently represented building types.
 
 
       - layout: top-middle
