@@ -70,8 +70,10 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-          
+            - Made a prediction model which to statistically show the effects of climate change
+            - Developed a Markov Chain Model to predict the amount of precipitation in based on the previous year
+            - Find and clean the data used and create a usable and good dataset
+            - Create a PowerPoint and paper documenting the findings          
       - layout: top-middle
         title: Apartment Rent Rent Price Prediction on Synthetic Data
         link: github.com/sproogen
