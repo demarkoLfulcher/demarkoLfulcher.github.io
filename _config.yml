@@ -15,7 +15,7 @@ website: https://demarkolfulcher.github.io/
 darkmode: true
 
 # Social links
-twitter_username: facespics
+twitter_username: 
 github_username:  demarkoLfulcher
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -31,9 +31,9 @@ youtube_username: globalmtb
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: demarkolfulcher.github.io
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://demarkolfulcher.github.io/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
