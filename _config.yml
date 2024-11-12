@@ -50,8 +50,6 @@ about_profile_image: images/justworks_photo.PNG
 about_content: | # this will include new lines to allow paragraphs
   I'm a highly motivated senior in Mathematics and Statistics with a Computer Science minor, possessing a robust academic background within high level Mathematics, Statistics and Computer Science Theory. I’m currently completing an independent study on Cellular Automata under the guidance of Professor Richard Chang. I hope to continue my journey in Mathematics and Statistics such that I can apply my mathematical knowledge into Computer Science Theory and Applications.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
