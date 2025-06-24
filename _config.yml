@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Meteorological Modeling in the Baltimore/ Washington Region
+        title: Post - Quantum Symmetric Key Agreement 
         link: github.com/demarkoLfulcher
         # link_text: Project Website
         additional_links:
@@ -68,12 +68,11 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-            - Made a prediction model which to statistically show the effects of climate change
-            - Developed a Markov Chain Model to predict the amount of precipitation in based on the previous year
-            - Find and clean the data used and create a usable and good dataset
-            - Create a PowerPoint and paper documenting the findings          
+            - Analyzed post-quantum symmetric key agreement protocols for resilience to quantum attacks
+            - Identified limitations in scalability and security, collaborated on feasibility assessments
+            - Initiated plans for a novel protocol to enhance speed, security, and scalability      
       - layout: top-middle
-        title: Apartment Rent Rent Price Prediction on Synthetic Data
+        title: SFS Winter Research Study
         link: github.com/demarkoLfulcher
         # link_text: Project Website
         additional_links:
@@ -86,11 +85,11 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-            - Conducted comprehensive analysis of rent prices for various housing types in a college town, utilizing statistical methods to evaluate data accuracy and pricing.
-            - Prepared dataset by transforming categorical variables into binary format and handling missing values, ensuring data integrity for analysis.
-            - Applied Multiple Linear Regression and Backwards Elimination techniques to model rent prices, accounting for variables like bathroom count, square feet, and building type.
-            - Developed and tested eight distinct models based on city and building type, optimizing each model by removing variables with high p-values to enhance efficiency.
-            - Provided accurate price ranges for new apartments and noted the impact of data sample size on model accuracy, highlighting improved precision for more frequently represented building types.
+            - Conduct vulnerability research on a web based application that is integrated with a Large Language Mode
+            - Prompt engineering on the LLM, how the web application handles a high number of requests, and if the web application was properly sand-boxed
+            - Static analysis of the source code of the behind the Web infrastructure. 
+            - Recorded findings and results in a research paper and presentations
+            
 
 
       - layout: top-middle
