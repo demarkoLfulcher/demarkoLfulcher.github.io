@@ -68,9 +68,7 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-            - Analyzed post-quantum symmetric key agreement protocols for resilience to quantum attacks
-            - Identified limitations in scalability and security, collaborated on feasibility assessments
-            - Initiated plans for a novel protocol to enhance speed, security, and scalability      
+            - Analyzed post-quantum symmetric key agreement protocols for resilience to quantum attacks. Identified limitations in scalability and security, collaborated on feasibility assessments. Initiated plans for a novel protocol to enhance speed, security, and scalability      
       - layout: top-middle
         title: SFS Winter Research Study
         link: github.com/demarkoLfulcher
@@ -85,15 +83,12 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-            - Conduct vulnerability research on a web based application that is integrated with a Large Language Mode
-            - Prompt engineering on the LLM, how the web application handles a high number of requests, and if the web application was properly sand-boxed
-            - Static analysis of the source code of the behind the Web infrastructure. 
-            - Recorded findings and results in a research paper and presentations
+            - Conduct vulnerability research on a web based application that is integrated with a Large Language Mode. Prompt engineering on the LLM, how the web application handles a high number of requests, and if the web application was properly sand-boxed. Static analysis of the source code of the behind the Web infrastructure. Recorded findings and results in a research paper and presentations
             
 
 
       - layout: top-middle
-        title: Credit Card Fraud Detection on Unbalance and Unlabelled Data
+        title: Malware Analysis / Reverse Engineering of APK Samples 
         link: github.com/demarkoLfulcher
         # link_text: Project Website
         additional_links:
@@ -106,7 +101,7 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app.
+          - De-compile and reverse engineering apk malware samples in order to understand how they work and for the ransomware samples determine if file retrieval is possible. I used Ghidra, apktools,waydroid, and gdb to conduct this research. The research included static and dynamic analysisof apk malware samples and a paper to document the findings and results.
 
   - title: Experience  # Title for the section
     layout: list # Type of content section (list/text)
