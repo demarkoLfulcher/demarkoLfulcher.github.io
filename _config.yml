@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/fat_penguin.jpeg
+about_profile_image: images/fat_penguin_head.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I'm a highly motivated senior in Mathematics with a Computer Science and Statistics minors, possessing a robust academic background within high level Mathematics, Statistics and Computer Science Theory. I’m currently completing an independent study on Cellular Automata under the guidance of Professor Richard Chang. I hope to continue my journey in Mathematics and Statistics such that I can apply my mathematical knowledge into Computer Science Theory and Applications.
 
