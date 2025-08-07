@@ -158,7 +158,7 @@ content:
       - layout: left
         title: University of Maryland Baltimore County
         caption: 2020 - 2025
-        sub_title: B.A. Matematics and Statistics 
+        sub_title: B.A. Matematics 
         quote: >
           The University of Maryland, Baltimore County (UMBC), founded in 1966, is a public research university located in Baltimore County, Maryland. It was established as part of the University System of Maryland and has since grown into a prominent institution known for its excellence in education and research.
         description: | # this will include new lines to allow paragraphs
