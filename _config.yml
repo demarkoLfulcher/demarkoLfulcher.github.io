@@ -48,7 +48,7 @@ additional_links:
 # About Section
 # about_title: About Me
 about_content: | # this will include new lines to allow paragraphs
-  I'm a highly motivated senior in Mathematics with a Computer Science and Statistics minors, possessing a robust academic background within high level Mathematics, Statistics and Computer Science Theory. I’m currently completing an independent study on Cellular Automata under the guidance of Professor Richard Chang. I hope to continue my journey in Mathematics and Statistics such that I can apply my mathematical knowledge into Computer Science Theory and Applications.
+  I’m a Computer Science Master’s student at UMBC with a background in mathematics and statistics, specializing in cybersecurity research, reverse engineering, and cryptography. My work spans post-quantum cryptographic protocols, malware analysis, and vulnerability research, where I combine theoretical foundations with hands-on security testing. Skilled in C, C++, Rust, Java, Python, and assembly, I’ve applied my expertise through academic research, bug bounty programs, and roles supporting diversity in tech education. I’m driven by a passion for exploring how mathematics and computer science intersect to build secure, resilient systems.
 
 content:
   - title: Projects # Title for the section
