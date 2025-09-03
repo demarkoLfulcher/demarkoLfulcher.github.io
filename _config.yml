@@ -5,16 +5,6 @@ favicon: images/fat_penguin.jpeg
 # Content configuration version
 version: 2
 
-navigation:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Publications
-    url: /publications/
-  - title: Blog
-    url: /blog/
-
 # Personal info
 name: Demarko Fulcher
 title: Computer Science Masters Student / Cyber Security Researcher 
