@@ -6,5 +6,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: DeMarko Fulcher - Formal Methods Researcher 
+title: DeMarko Fulcher
 ---
