@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "DeMarko - Cryptography and Formal Methods Researcher"
+title: "DeMarko Fulcher - About"
 author_profile: true
 redirect_from: 
   - /about/
