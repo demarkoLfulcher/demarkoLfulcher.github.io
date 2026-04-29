@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Masters Student in Computer Science at University of Maryland, Baltimore County. I'm working at Bello Machre as an IT intern and assisting with conducting Cryptographic Protocol Shapes Analyzer Workshops at University of Maryland Baltimore County. My current research focuses on:
+I am a Masters Student in Computer Science at University of Maryland, Baltimore County. I'm assisting with conducting Cryptographic Protocol Shapes Analyzer Workshops at University of Maryland Baltimore County. My current research focuses on:
 - Automated Reasoning
 - Formal Verifcation
 - Cryptography
