@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Masters Student in Computer Science at University of Maryland, Baltimore County. I'm assisting with conducting Cryptographic Protocol Shapes Analyzer Workshops at University of Maryland Baltimore County. My current research focuses on:
+I am a Masters Student in Computer Science at University of Maryland, Baltimore County. I'm apart of the AI - Theory Oriented ( ATOMS ) Lab at University of Maryland Baltimore County. My current research interest are the following:
 - Automated Reasoning
 - Formal Verifcation
-- Cryptography
+- Programming Languages 
 - Security 
 
 
-I'm currently assisting with the Cryptographic Protocol Shapes Analysis workshops. I'm conducting formal code verification of SEAL - C and developing Rust implemenation of SEAL. I was previously working on Formal Analysis of Post Quantum Key Distribution Protocols, our aim was to analyze current quantum resistant key distribution protocols. I'm also interested in music creation and the development of Free and open-source software. I'm looking to join my local maryland Beyond40 chapter. 
+I'm current focuses on Probabilistic Programming in Lean 4 with the appliaction being Molecular Simulation. I also assist with the workshops in the Protocal Analysis at University of Maryland Baltimore County. I'm also interested in algorithmic music creation and the development of Free and open-source software, I'm apart the Maryland Beyond40 chapter. 
 
-
-For more info
 ------
