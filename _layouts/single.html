@@ -36,6 +36,15 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.collection == 'portfolio' %}
+          <p class="page__meta"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ page.period }}{% if page.tools %} &nbsp;·&nbsp; <i class="fa fa-fw fa-wrench" aria-hidden="true"></i> {{ page.tools }}{% endif %}</p>
+          {% if page.demo or page.code or page.paper %}
+          <p>
+            {% if page.demo %}<a class="btn btn--small" href="{{ page.demo }}">Demo</a>{% endif %}
+            {% if page.code %}<a class="btn btn--small btn--inverse" href="{{ page.code }}">Code</a>{% endif %}
+            {% if page.paper %}<a class="btn btn--small btn--inverse" href="{{ page.paper }}">Paper</a>{% endif %}
+          </p>
+          {% endif %}
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}

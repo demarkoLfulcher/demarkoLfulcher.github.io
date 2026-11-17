@@ -1,14 +1,30 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Projects"
+permalink: /projects/
 author_profile: true
+redirect_from:
+  - /portfolio/
 ---
 
 {% include base_path %}
 
+<p>Selected research and security projects. Click a title for the full write-up.</p>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% assign projects = site.portfolio | sort: "order" %}
+{% for post in projects %}
+<div class="list__item">
+  <article class="archive__item">
+    <h2 class="archive__item-title"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="page__meta"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ post.period }}{% if post.tools %} &nbsp;·&nbsp; <i class="fa fa-fw fa-wrench" aria-hidden="true"></i> {{ post.tools }}{% endif %}</p>
+    <p class="archive__item-excerpt">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+    {% if post.demo or post.code or post.paper %}
+    <p>
+      {% if post.demo %}<a class="btn btn--small" href="{{ post.demo }}">Demo</a>{% endif %}
+      {% if post.code %}<a class="btn btn--small btn--inverse" href="{{ post.code }}">Code</a>{% endif %}
+      {% if post.paper %}<a class="btn btn--small btn--inverse" href="{{ post.paper }}">Paper</a>{% endif %}
+    </p>
+    {% endif %}
+  </article>
+</div>
 {% endfor %}
-

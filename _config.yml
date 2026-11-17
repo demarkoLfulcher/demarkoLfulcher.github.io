@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "About"
+title                    : "DeMarko Fulcher"
 title_separator          : "-"
 name                     : &name "DeMarko Fulcher"
-description              : &description "DeMarko's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "DeMarko Fulcher — CS M.S. student and graduate research assistant at UMBC working on formal verification, Lean, and security"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://demarkoLfulcher.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,22 +26,22 @@ author:
   avatar           : "profile.png"
   name             : "DeMarko Fulcher"
   pronouns         : "he/him"  
-  bio              : "Computer Science Department, University of Maryland, Baltimore County"
-  location         : "Earth"
-  employer         : "Bello Machre"
+  bio              : "CS M.S. student & Graduate Research Assistant, ATOMS Lab, UMBC. Formal verification, Lean 4, and security."
+  location         : "Baltimore, MD"
+  employer         : "ATOMS Lab, UMBC"
   uri              : # URL
   email            : "demarko.fulchersb@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "demarko-fulcher-UMBC"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
